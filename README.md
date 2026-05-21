@@ -1,6 +1,6 @@
 # aplikasi_sep
 
-A new Flutter project.
+Tugas Pertemuan 2 dengan Materi Widget dan Layout
 
 ## Getting Started
 
